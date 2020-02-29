@@ -1,0 +1,1 @@
+$env:GOOGLE_APPLICATION_CREDENTIALS="pokaface-ea3f5cdeeb91.json"
